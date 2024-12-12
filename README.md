@@ -8,7 +8,7 @@ Hello! I’m **@lj200612**, a tech enthusiast passionate about exploring the end
 - 🔭 **Interests**: AI, Machine Learning, and Cloud Computing  
 - 🌱 **Currently Learning**: C Programming and AI Model Training on Kaggle  
 - 🤝 **Collaboration Goals**: Open-source AI projects and innovative cloud-based solutions  
-- 📬 **How to Reach Me**: Drop me a message here or via email at [your-email@example.com]  
+- 📬 **How to Reach Me**: Drop me a message here or via email at [admin@jiepress.cn]  
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun Fact**: I love experimenting with AI tools and diving into strategy games like *Genshin Impact*!  
 
