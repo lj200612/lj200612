@@ -10,7 +10,7 @@ Hello! I’m **@lj200612**, a tech enthusiast passionate about exploring the end
 - 🤝 **Collaboration Goals**: Open-source AI projects and innovative cloud-based solutions  
 - 📬 **How to Reach Me**: Drop me a message here or via email at [jiepress@jiepress.cn]  
 - 😄 **Pronouns**: He/Him  
-- ⚡ **Fun Fact**: I love experimenting with AI tools and diving into strategy games like *Genshin Impact*!  
+- ⚡ **Fun Fact**: I love experimenting with AI tools. 
 
 ---
 
