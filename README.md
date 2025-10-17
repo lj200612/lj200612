@@ -1,14 +1,7 @@
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
-  
-</div>
-
----
 
 
-### GitHub 统计卡片 (自动更新)
+### 统计
 
 <div align="center">
   
@@ -20,7 +13,7 @@
   
 </div>
 
-### 连续提交记录 (自动统计)
+### 提交记录
 
 <div align="center">
   
