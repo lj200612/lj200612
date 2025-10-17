@@ -1,6 +1,4 @@
 
-#  GitHub Profile README
-
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
