@@ -60,17 +60,6 @@
 </div>
 
 
----
-
-
-##  实时活动
-
-<div align="center">
-  
-  <!-- 最近的GitHub活动 -->
-  [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=lj200612&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9&area=true)](https://github.com/lj200612)
-  
-</div>
 
 ---
 
