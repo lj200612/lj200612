@@ -1,6 +1,6 @@
 # Hi, I'm @lj200612 👋
 
-Student Developer,Interested in Network Security, Game Development~~, and doing some stupid things~~.
+Student Developer,Interested in Network Security, Game Development, and doing some stupid things.
 
 📝 Blog: [Explorerの日常](https://www.jiepress.cn)
 
